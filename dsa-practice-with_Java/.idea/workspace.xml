@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a005c43-e954-450a-8d3c-c4d6e7fc5eda" name="Changes" comment="" />
+    <list default="true" id="1a005c43-e954-450a-8d3c-c4d6e7fc5eda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-practice-with_Java/javaDataStructureAndAlgorithm/HalfPyramidPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-practice-with_Java/javaDataStructureAndAlgorithm/HoloRectangleOrBoundaryPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dsa-practice-with_Java/javaDataStructureAndAlgorithm/PatternSolidRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaDataStructureAndAlgorithm/HalfPyramidPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaDataStructureAndAlgorithm/HoloRectangleOrBoundaryPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaDataStructureAndAlgorithm/PatternSolidRectangle.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/programming/dsa-by-java",
+    "last_opened_file_path": "E:/programming/dsa-by-java/dsa-practice-with_Java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
